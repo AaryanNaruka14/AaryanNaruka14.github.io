@@ -127,19 +127,19 @@ Classes:
             conclusion about your topic. 
 
 projects:
-    title: Projects
+    title: Involvement
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Involvement in community and student groups throughout college. Project start ups and comunities joined within and 
+      outside of the Michigan State University commuinity. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: AI Club
+        link: 
+        tagline:  Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group
+        to help combine different parts of a self driving car into a single library. 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Society of Data Scientists
+        link: 
+        tagline:
 
       - title: Tempo
         link: "#"
@@ -153,25 +153,53 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-Involvement:
-    title: Involvement
-    intro: |
-      Involvement in community and student groups throughout college. Project start ups and comunities joined within and 
-      outside of the Michigan State University commuinity. 
 
-    - title: AI Club
-          details: |
-        Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group
-        to help combine different parts of a self driving car into a single library. 
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Society of Data Scientists
-          details:
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# Involvement:
+#     title: Involvement
+#     intro: |
+#       Involvement in community and student groups throughout college. Project start ups and comunities joined within and 
+#       outside of the Michigan State University commuinity. 
+
+#     - title: AI Club
+#           details: |
+#         Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group
+#         to help combine different parts of a self driving car into a single library. 
+
+#       - title: Society of Data Scientists
+#           details:
           
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
