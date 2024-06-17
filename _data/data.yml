@@ -112,46 +112,30 @@ experiences:
             - Bullet point
             - Bullet point
 
-certifications:
-      title: Certifications
+Classes:
+      title: Classes
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Calculus I - IV
+          start: 2022
+          end: 2024
+          organization: Michigan State University
+          credentialid: MTH 132,133,234,235
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Learned and perfected all calculus classes available. Perfect 4.0 in every Calculus possible at Michigan State University. Learned about
+            derivatives, vectors (linear algebra), and differential equations. 
+        - name: Computational Math, Science, and Engineering 201, 202, 381
+          start: 2022 - 2024
+          end: 
+          organization: Michigan State University
+          credentialid: CMSE 201, 202, 381
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Learend about language modeling. Python libraries such as matplottlib, pandas, and numpy. Statistics topics sich as linearizing, data structures/plotting, 
+            Neural Networks, Different models and different ways to organize and clean data. Research project that entailed data and modeling. With a sturdy 
+            conclusion about your topic. 
 
 projects:
     title: Projects
