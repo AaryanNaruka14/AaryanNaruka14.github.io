@@ -92,17 +92,14 @@ experiences:
           on my problem solving skills.
             - Inventory Supply Management
             - Customer Service
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Internship
+        time: 2022 - 2023
+        company: Troy, Michigan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked in the office with physical therapists. Worked with excel and basic programming for inputting data. Worked with python and R studio to help make workflow
+          more effective and clean. 
+            - Excel
+            - Program to input data straight from Gmail
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
