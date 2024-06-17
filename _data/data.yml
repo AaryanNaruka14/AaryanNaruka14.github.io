@@ -134,7 +134,8 @@ projects:
     assignments:
       - title: AI Club
         link: 
-        details:  Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group
+        details:  
+        Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group
         to help combine different parts of a self driving car into a single library. 
 
       - title: Society of Data Scientists
