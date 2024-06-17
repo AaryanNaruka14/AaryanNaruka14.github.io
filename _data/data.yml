@@ -126,19 +126,32 @@ Classes:
             Neural Networks, Different models and different ways to organize and clean data. Research project that entailed data and modeling. With a sturdy 
             conclusion about your topic. 
 
+# projects:
+#     title: Involvement
+#     intro: >
+#       Involvement in community and student groups throughout college. Project start ups and comunities joined within and 
+#       outside of the Michigan State University commuinity. 
+#     clubs:
+#       - title: AI Club
+#         link: 
+#         tagline: "Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group to help combine different parts of a self driving car into a single library." 
+  
+#       - title: Society of Data Scientists
+#         link: 
+#         tagline: "Attended meetings and presented datra statistics to professors and alumni in the field"
+
 projects:
-    title: Involvement
-      intro: >
-        Involvement in community and student groups throughout college. Project start ups and comunities joined within and 
-        outside of the Michigan State University commuinity. 
-      clubs:
-        - title: AI Club
-          link: 
-          tagline: "Attended workshops and worked with otehrs on how to start learning AI. Worked on an AI project with a group to help combine different parts of a self driving car into a single library." 
-    
-        - title: Society of Data Scientists
-          link: 
-          tagline: "Attended meetings and presented datra statistics to professors and alumni in the field"
+  title: Involvement
+  intro: >
+    Involvement in community and student groups throughout college. Project start ups and communities joined within and 
+    outside of the Michigan State University community. 
+  assignments:
+    - title: AI Club
+      link: 
+      tagline: "Attended workshops and worked with others on how to start learning AI. Worked on an AI project with a group to help combine different parts of a self-driving car into a single library." 
+    - title: Society of Data Scientists
+      link: 
+      tagline: "Attended meetings and presented data statistics to professors and alumni in the field."
 
 
 # projects:
